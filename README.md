@@ -20,7 +20,10 @@
 
 
 
+
+
 #### Contact Information 
 
-**Email:** ashleyna94@gmail.cm
+**Email:** ashleyna94@gmail.com
+
 **LinkedIn:** [https://www.linkedin.com/in/ashleyna/](https://www.linkedin.com/in/ashleyna/)
