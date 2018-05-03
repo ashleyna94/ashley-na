@@ -3,7 +3,7 @@
 
 -----------------------------------------
 
-### Feel free to explore through my various projects! 
+### Check out some of my projects! 
 
 #### Projects
 * Video Game Hits
