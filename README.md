@@ -13,7 +13,7 @@
   * [Git Repo](https://github.com/ashleyna94/landslides-app)
   * [Live App](https://landslides.herokuapp.com/)
 * [TweetStreet](https://github.com/ashleyna94/TweetStreet)
-* SQL Queries 
+* [SQL Queries](https://github.com/ashleyna94/ashley-na/tree/master/SQL-Queries)
 * UFO Sightings
 * Mars Web Scrape 
 * Weather Web Dashboard 
