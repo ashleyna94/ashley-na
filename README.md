@@ -14,13 +14,13 @@
   * [Live App](https://landslides.herokuapp.com/)
 * [TweetStreet](https://github.com/ashleyna94/TweetStreet)
 * [SQL Queries](https://github.com/ashleyna94/ashley-na/tree/master/SQL-Queries)
-* UFO Sightings
+<!-- * UFO Sightings -->
 * Mars Web Scrape 
-* Weather Web Dashboard 
-* Hawaii Climate Storage and Retrieval 
-* Latitude Weather Analysis 
-* Ride Share Analysis 
-* Game Purchases Analysis
+* [Weather Web Dashboard](http://ashleyna94.github.io/)
+<!-- * Hawaii Climate Storage and Retrieval  -->
+* [Latitude Weather Analysis](https://github.com/ashleyna94/python_apis-challenge)
+* [Ride Share Analysis](https://github.com/ashleyna94/matplotlib-challenge)
+* [Game Purchases Analysis](https://github.com/ashleyna94/pandas-challenge)
 
 
 
