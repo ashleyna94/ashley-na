@@ -7,8 +7,12 @@
 
 #### Projects
 * Video Game Hits
+ * [Git Repo](https://github.com/ashleyna94/videogames-app)
+ * [Live App](http://videogames-exploration.herokuapp.com/)
 * Landslides Exploration 
-* TweetStreet 
+ * [Git Repo](https://github.com/ashleyna94/landslides-app)
+ * [Live App](https://landslides.herokuapp.com/)
+* [TweetStreet](https://github.com/ashleyna94/TweetStreet)
 * SQL Queries 
 * UFO Sightings
 * Mars Web Scrape 
